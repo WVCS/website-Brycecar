@@ -1,3 +1,13 @@
 body {
-background-color #E7DFC6;
+    Background-color: grey;
+}
+
+h3 {
+  color:blue;
+  font-size: 300%;
+}
+
+p {
+  color:blue;
+
 }
